@@ -7,4 +7,4 @@ image_resource:
 
 run:
   path: pwd
-  #args: ['test_aj_01']
+  #args: ['test_aj']
